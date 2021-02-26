@@ -55,5 +55,5 @@ The main results of my analysis can be found at the post available [here](put-li
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Big credit goes to Stack Overflow for the [dataset](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing) which is licensed under the [ODbL license](https://opendatacommons.org/licenses/odbl/1-0/). I also want to thank [Tanu N Prabhu](https://www.kaggle.com/tanuprabhu) and [Chaitanya Gokhale](https://www.kaggle.com/statchaitya)
-for the [Population dataset for the year 2020](https://www.kaggle.com/tanuprabhu/population-by-country-2020) and [Country continent dataset](https://www.kaggle.com/statchaitya/country-to-continent) they both provided. In addition, anyone is free to use the code. 
+for the [Population dataset for the year 2020](https://www.kaggle.com/tanuprabhu/population-by-country-2020) and [Country continent dataset](https://www.kaggle.com/statchaitya/country-to-continent) they both provided. In addition, the repository is distributed under the [GNU GPLv3 license](https://github.com/evansdoe/stackoverflow_2020_survey/blob/main/LICENSE). 
 
