@@ -43,8 +43,6 @@ population of the countries (resp. continents)?
 
 ## File Descriptions <a name="files"></a>
 
-There is only one [jupyter notebook](https://github.com/evansdoe/stackoverflow_2020_survey/blob/main/stackoverflow_2020_survey.ipynb) available including complete study on above questions.
-
 There is only one Jupyter notebook assigned to this project whereby all the
 questions mentioned in the [Project Motivation](#motivation) section are answered.
 
